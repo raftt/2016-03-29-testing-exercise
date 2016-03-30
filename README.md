@@ -2,7 +2,8 @@
 
 ## Make the badge green
 
-[![Build Status](https://travis-ci.org/paris-swc/2016-03-29-testing-exercise.svg?branch=master)](https://travis-ci.org/paris-swc/2016-03-29-testing-exercise)
+[![Build 
+Status](https://travis-ci.org/raftt/2016-03-29-testing-exercise.svg?branch=master)](https://travis-ci.org/raftt/2016-03-29-testing-exercise)
 
 ## Getting started
 
@@ -10,7 +11,7 @@
 * Clone the repository from your own fork so that you can work on it on your
   computer.
 * Login to [Travis CI](https://travis-ci.org) with your GitHub account and activate (your fork of) this repo for testing.
-* Edit this README file and replace all mentions of `paris-swc` in the link above with your user name.
+* Edit this README file and replace all mentions of `raftt` in the link above with your user name.
 
 ## Improve the code
 * Implement missing functions to make the unit tests pass (run tests either locally or let Travis run them for you each time you push changes).
